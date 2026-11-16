@@ -1,0 +1,24 @@
+{
+ "name": "सनातन पंचांग — सरल संस्कृत",
+ "short_name": "पंचांग",
+ "description": "दैनिक पंचांग: तिथि, नक्षत्र, चौघड़िया, राहु काल, राशिफल व पर्व",
+ "start_url": "./index.html",
+ "display": "standalone",
+ "background_color": "#fff8ea",
+ "theme_color": "#6e0f1f",
+ "lang": "hi",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
